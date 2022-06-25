@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T16:05:21.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.3" etag="1wlhTunChd51fPA2dF8A" type="github"><diagram id="KkzKkQOwrlRFmEii48gr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-26T16:06:45.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="gO7zNxAKCrClyEE-k-Am" version="20.0.3" type="github">
+  <diagram id="KkzKkQOwrlRFmEii48gr" name="Page-1">
+    <mxGraphModel dx="1231" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NRLjOIZcGZSy3UCWqE0s-1" value="Aktor" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="200" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="NRLjOIZcGZSy3UCWqE0s-2" value="Sistem" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="200" height="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
