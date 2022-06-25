@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T15:16:35.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="CjHht3dT4ecYzZ2pcCw2" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T15:17:42.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="amsj82zNnI6-eLcai_Ai" version="20.0.3" type="github">
   <diagram id="8VXRsfA2JbnLdSGY70NK" name="Page-1">
     <mxGraphModel dx="1864" dy="1667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
             <mxPoint x="-5.115907697472721e-13" y="330.1500000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGDypvN8in3GUUsTKDcG-26" value="Informasi Profil" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="RGDypvN8in3GUUsTKDcG-26" value="Kesehatan" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="280" width="140" height="420" as="geometry" />
         </mxCell>
         <mxCell id="RGDypvN8in3GUUsTKDcG-28" value="+id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-26">
@@ -127,7 +127,7 @@
         <mxCell id="RGDypvN8in3GUUsTKDcG-29" value="+id_user&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-26">
           <mxGeometry y="52" width="140" height="368" as="geometry" />
         </mxCell>
-        <mxCell id="RGDypvN8in3GUUsTKDcG-39" value="referensi_profesi" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="RGDypvN8in3GUUsTKDcG-39" value="pemberkasan" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="280" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="RGDypvN8in3GUUsTKDcG-40" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-39">
@@ -139,7 +139,7 @@
         <mxCell id="RGDypvN8in3GUUsTKDcG-42" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-39">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="RGDypvN8in3GUUsTKDcG-43" value="referensi_tahun" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="RGDypvN8in3GUUsTKDcG-43" value="pendaftaran" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="-170" y="280" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="RGDypvN8in3GUUsTKDcG-44" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-43">
