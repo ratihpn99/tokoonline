@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T14:39:28.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="XqJxRaQWtTCZrxAqLIFz" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T14:40:27.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="2UP5Vdy8HIuGYzeTMLRa" version="20.0.3" type="github">
   <diagram id="8VXRsfA2JbnLdSGY70NK" name="Page-1">
     <mxGraphModel dx="1712" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="RGDypvN8in3GUUsTKDcG-12" value="+ ip_address" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-10">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="RGDypvN8in3GUUsTKDcG-13" value="+ username&#xa;&#xa;+password&#xa;&#xa;+email&#xa;&#xa;+created_on&#xa;+" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-10">
+        <mxCell id="RGDypvN8in3GUUsTKDcG-13" value="+ username&#xa;&#xa;+password&#xa;&#xa;+email&#xa;&#xa;+created_on&#xa;&#xa;+last_login&#xa;&#xa;+first_name&#xa;&#xa;+last_name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-10">
           <mxGeometry y="78" width="140" height="172" as="geometry" />
         </mxCell>
         <mxCell id="RGDypvN8in3GUUsTKDcG-14" value="Data Alumni" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
