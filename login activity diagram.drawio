@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T16:23:54.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="1QTRCmeSNuSuBt4qpWLH" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T16:24:47.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="4cWcjGgg6AbtzWPmEunc" version="20.0.3" type="github">
   <diagram id="P_5Exqcinh2wY1HSjJye" name="Page-1">
-    <mxGraphModel dx="862" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1014" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Eo39ov_3Lsh5uql5R_oe-1" value="Aktor" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="180" y="40" width="320" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo39ov_3Lsh5uql5R_oe-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Eo39ov_3Lsh5uql5R_oe-1" source="Eo39ov_3Lsh5uql5R_oe-3" target="Eo39ov_3Lsh5uql5R_oe-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Eo39ov_3Lsh5uql5R_oe-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="Eo39ov_3Lsh5uql5R_oe-1">
           <mxGeometry x="80" y="40" width="40" height="40" as="geometry" />
@@ -34,12 +37,23 @@
         <mxCell id="Eo39ov_3Lsh5uql5R_oe-7" value="menampilkan pesan bahwa email dan password salah" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Eo39ov_3Lsh5uql5R_oe-2">
           <mxGeometry x="10" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Eo39ov_3Lsh5uql5R_oe-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Eo39ov_3Lsh5uql5R_oe-2" source="Eo39ov_3Lsh5uql5R_oe-8" target="Eo39ov_3Lsh5uql5R_oe-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Eo39ov_3Lsh5uql5R_oe-8" value="mengalihkan ke halaman utama" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Eo39ov_3Lsh5uql5R_oe-2">
           <mxGeometry x="195" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo39ov_3Lsh5uql5R_oe-20" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="Eo39ov_3Lsh5uql5R_oe-2">
+          <mxGeometry x="240" y="440" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Eo39ov_3Lsh5uql5R_oe-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eo39ov_3Lsh5uql5R_oe-4" target="Eo39ov_3Lsh5uql5R_oe-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eo39ov_3Lsh5uql5R_oe-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eo39ov_3Lsh5uql5R_oe-7" target="Eo39ov_3Lsh5uql5R_oe-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
