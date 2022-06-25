@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T15:14:40.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="r6OzK5VaLUBseoiYDHSI" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T15:16:35.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="CjHht3dT4ecYzZ2pcCw2" version="20.0.3" type="github">
   <diagram id="8VXRsfA2JbnLdSGY70NK" name="Page-1">
     <mxGraphModel dx="1864" dy="1667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
           <mxGeometry y="78" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="RGDypvN8in3GUUsTKDcG-22" value="Informasi Loker" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="140" height="190" as="geometry" />
+          <mxGeometry x="320" y="280" width="140" height="390" as="geometry" />
         </mxCell>
         <mxCell id="RGDypvN8in3GUUsTKDcG-23" value="+ id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-22">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -103,13 +103,19 @@
         <mxCell id="RGDypvN8in3GUUsTKDcG-24" value="+provinsi_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-22">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="RGDypvN8in3GUUsTKDcG-25" value="+" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-22">
-          <mxGeometry y="78" width="140" height="112" as="geometry" />
+        <mxCell id="RGDypvN8in3GUUsTKDcG-25" value="+judul&#xa;&#xa;+industri&#xa;&#xa;+deskripsi&#xa;&#xa;+persyaratan&#xa;&#xa;+gaji&#xa;&#xa;+kuota&#xa;&#xa;+tipe&#xa;&#xa;+mulai_pendaftaran&#xa;&#xa;+akhir_pendaftaran&#xa;&#xa;+crud()&#xa;&#xa;+get()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-22">
+          <mxGeometry y="78" width="140" height="312" as="geometry" />
         </mxCell>
         <mxCell id="RGDypvN8in3GUUsTKDcG-50" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1.003;exitY=1.071;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="RGDypvN8in3GUUsTKDcG-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140.42000000000007" y="159.99599999999998" as="sourcePoint" />
             <mxPoint y="160.14999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RGDypvN8in3GUUsTKDcG-53" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1.003;exitY=1.071;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="RGDypvN8in3GUUsTKDcG-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140.42000000000002" y="329.9960000000001" as="sourcePoint" />
+            <mxPoint x="-5.115907697472721e-13" y="330.1500000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RGDypvN8in3GUUsTKDcG-26" value="Informasi Profil" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
