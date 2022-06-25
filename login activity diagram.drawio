@@ -1,14 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T16:19:31.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="0cVsL6FxAwjm5n5Xe0np" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T16:23:54.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="1QTRCmeSNuSuBt4qpWLH" version="20.0.3" type="github">
   <diagram id="P_5Exqcinh2wY1HSjJye" name="Page-1">
     <mxGraphModel dx="862" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Eo39ov_3Lsh5uql5R_oe-1" value="Aktor" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="180" y="40" width="200" height="340" as="geometry" />
+          <mxGeometry x="180" y="40" width="320" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo39ov_3Lsh5uql5R_oe-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="Eo39ov_3Lsh5uql5R_oe-1">
+          <mxGeometry x="80" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo39ov_3Lsh5uql5R_oe-4" value="memasukkan email dan password" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Eo39ov_3Lsh5uql5R_oe-1">
+          <mxGeometry x="50" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Eo39ov_3Lsh5uql5R_oe-2" value="Sistem" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="380" y="40" width="200" height="340" as="geometry" />
+          <mxGeometry x="380" y="40" width="360" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo39ov_3Lsh5uql5R_oe-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Eo39ov_3Lsh5uql5R_oe-2" source="Eo39ov_3Lsh5uql5R_oe-5" target="Eo39ov_3Lsh5uql5R_oe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo39ov_3Lsh5uql5R_oe-5" value="cek ke database berdasarkan email dan password" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Eo39ov_3Lsh5uql5R_oe-2">
+          <mxGeometry x="185" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo39ov_3Lsh5uql5R_oe-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Eo39ov_3Lsh5uql5R_oe-2" source="Eo39ov_3Lsh5uql5R_oe-6" target="Eo39ov_3Lsh5uql5R_oe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo39ov_3Lsh5uql5R_oe-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Eo39ov_3Lsh5uql5R_oe-2" source="Eo39ov_3Lsh5uql5R_oe-6" target="Eo39ov_3Lsh5uql5R_oe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo39ov_3Lsh5uql5R_oe-6" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Eo39ov_3Lsh5uql5R_oe-2">
+          <mxGeometry x="220" y="220" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo39ov_3Lsh5uql5R_oe-7" value="menampilkan pesan bahwa email dan password salah" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Eo39ov_3Lsh5uql5R_oe-2">
+          <mxGeometry x="10" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo39ov_3Lsh5uql5R_oe-8" value="mengalihkan ke halaman utama" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="Eo39ov_3Lsh5uql5R_oe-2">
+          <mxGeometry x="195" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo39ov_3Lsh5uql5R_oe-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eo39ov_3Lsh5uql5R_oe-4" target="Eo39ov_3Lsh5uql5R_oe-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
