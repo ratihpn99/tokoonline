@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T15:26:51.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="9ZAgh6-4LcJiSjsCXquu" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T15:32:14.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="8kQNGjXB_EFxk-hj7GRl" version="20.0.3" type="github">
   <diagram id="8VXRsfA2JbnLdSGY70NK" name="Page-1">
-    <mxGraphModel dx="2287" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1864" dy="1667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,16 +146,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RGDypvN8in3GUUsTKDcG-43" value="Pendaftaran" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="290" width="140" height="104" as="geometry" />
+          <mxGeometry x="-250" y="290" width="140" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="RGDypvN8in3GUUsTKDcG-44" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-43">
+        <mxCell id="RGDypvN8in3GUUsTKDcG-44" value="+id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-43">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="RGDypvN8in3GUUsTKDcG-45" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-43">
+        <mxCell id="RGDypvN8in3GUUsTKDcG-45" value="+lowongan_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-43">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="RGDypvN8in3GUUsTKDcG-46" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-43">
-          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        <mxCell id="RGDypvN8in3GUUsTKDcG-46" value="+user_id&#xa;&#xa;+deskripsi_user&#xa;&#xa;+tgl_daftar&#xa;&#xa;+pendaftaran_status&#xa;&#xa;+index()&#xa;&#xa;+detail()&#xa;&#xa;+get()&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-43">
+          <mxGeometry y="78" width="140" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="RGDypvN8in3GUUsTKDcG-72" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="RGDypvN8in3GUUsTKDcG-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="190" as="sourcePoint" />
+            <mxPoint y="190.0000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RGDypvN8in3GUUsTKDcG-54" value="Provinsi" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="-220" y="110" width="140" height="104" as="geometry" />
