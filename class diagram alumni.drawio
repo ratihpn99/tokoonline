@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T15:33:09.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="1P-ih2Sq0frnU-lwgYHb" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T15:34:34.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Ry4Ch0Jf07F24JV_icti" version="20.0.3" type="github">
   <diagram id="8VXRsfA2JbnLdSGY70NK" name="Page-1">
     <mxGraphModel dx="1568" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -182,16 +182,22 @@
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="RGDypvN8in3GUUsTKDcG-58" value="Psikotest" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="-10" width="140" height="104" as="geometry" />
+          <mxGeometry x="-230" y="-250" width="140" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="RGDypvN8in3GUUsTKDcG-59" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-58">
+        <mxCell id="RGDypvN8in3GUUsTKDcG-59" value="+id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-58">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="RGDypvN8in3GUUsTKDcG-60" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-58">
+        <mxCell id="RGDypvN8in3GUUsTKDcG-60" value="+pendaftaran_id " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-58">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="RGDypvN8in3GUUsTKDcG-61" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-58">
-          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        <mxCell id="RGDypvN8in3GUUsTKDcG-61" value="+psikotest_nilai&#xa;&#xa;+psikotest_bobot&#xa;&#xa;+get()&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RGDypvN8in3GUUsTKDcG-58">
+          <mxGeometry y="78" width="140" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="RGDypvN8in3GUUsTKDcG-76" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="RGDypvN8in3GUUsTKDcG-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="130.00000000000023" as="sourcePoint" />
+            <mxPoint y="130.00000000000023" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RGDypvN8in3GUUsTKDcG-62" value="Ranking" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="-40" y="60" width="140" height="104" as="geometry" />
