@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T10:15:03.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="NhpRsFJkaHlwm8EYsUql" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T10:24:05.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="xN4LgDxDN9MmH0k2-Cui" version="20.0.3" type="github">
   <diagram id="B0pDWvKyzd3ZYbL9IA_-" name="Page-1">
     <mxGraphModel dx="862" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,13 +13,13 @@
         <mxCell id="LGS9LyqBG27drJKCAmqM-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="LGS9LyqBG27drJKCAmqM-1">
           <mxGeometry x="85" y="30" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGS9LyqBG27drJKCAmqM-4" value="klik tombol profil" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LGS9LyqBG27drJKCAmqM-1">
+        <mxCell id="LGS9LyqBG27drJKCAmqM-4" value="klik tombol data alumni" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LGS9LyqBG27drJKCAmqM-1">
           <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGS9LyqBG27drJKCAmqM-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LGS9LyqBG27drJKCAmqM-1" source="LGS9LyqBG27drJKCAmqM-6" target="LGS9LyqBG27drJKCAmqM-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGS9LyqBG27drJKCAmqM-6" value="mengisi formulir&lt;br&gt;data user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LGS9LyqBG27drJKCAmqM-1">
+        <mxCell id="LGS9LyqBG27drJKCAmqM-6" value="mengisi formulir&lt;br&gt;data alumni" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LGS9LyqBG27drJKCAmqM-1">
           <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGS9LyqBG27drJKCAmqM-7" value="klik tombol simpan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LGS9LyqBG27drJKCAmqM-1">
@@ -28,7 +28,7 @@
         <mxCell id="LGS9LyqBG27drJKCAmqM-2" value="Sistem" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="390" y="40" width="200" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="LGS9LyqBG27drJKCAmqM-5" value="menampilkan formulir&lt;br&gt;data user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LGS9LyqBG27drJKCAmqM-2">
+        <mxCell id="LGS9LyqBG27drJKCAmqM-5" value="menampilkan formulir&lt;br&gt;data alumni" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LGS9LyqBG27drJKCAmqM-2">
           <mxGeometry x="50" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGS9LyqBG27drJKCAmqM-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LGS9LyqBG27drJKCAmqM-2" source="LGS9LyqBG27drJKCAmqM-8" target="LGS9LyqBG27drJKCAmqM-17">
