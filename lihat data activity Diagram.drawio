@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T10:39:28.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.3" etag="ThCLTU_VN5TrCUar_-4W" type="github"><diagram id="wWkRizrZ4204qrRbiulT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-28T10:46:18.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="UGtVfA1qP7rSLhWA6S8k" version="20.0.3" type="github">
+  <diagram id="wWkRizrZ4204qrRbiulT" name="Page-1">
+    <mxGraphModel dx="862" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cvKeLHoYqlCSXdzoxRga-1" value="Aktor" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="cvKeLHoYqlCSXdzoxRga-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvKeLHoYqlCSXdzoxRga-1" source="cvKeLHoYqlCSXdzoxRga-3" target="cvKeLHoYqlCSXdzoxRga-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cvKeLHoYqlCSXdzoxRga-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="cvKeLHoYqlCSXdzoxRga-1">
+          <mxGeometry x="85" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cvKeLHoYqlCSXdzoxRga-4" value="pilih data yang ingin dilihat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="cvKeLHoYqlCSXdzoxRga-1">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cvKeLHoYqlCSXdzoxRga-2" value="Sistem" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="420" y="80" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="cvKeLHoYqlCSXdzoxRga-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvKeLHoYqlCSXdzoxRga-2" source="cvKeLHoYqlCSXdzoxRga-5" target="cvKeLHoYqlCSXdzoxRga-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cvKeLHoYqlCSXdzoxRga-5" value="mencari rincian database" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="cvKeLHoYqlCSXdzoxRga-2">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cvKeLHoYqlCSXdzoxRga-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvKeLHoYqlCSXdzoxRga-2" source="cvKeLHoYqlCSXdzoxRga-6" target="cvKeLHoYqlCSXdzoxRga-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cvKeLHoYqlCSXdzoxRga-6" value="menampilkan data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="cvKeLHoYqlCSXdzoxRga-2">
+          <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cvKeLHoYqlCSXdzoxRga-10" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="cvKeLHoYqlCSXdzoxRga-2">
+          <mxGeometry x="85" y="340" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cvKeLHoYqlCSXdzoxRga-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cvKeLHoYqlCSXdzoxRga-4" target="cvKeLHoYqlCSXdzoxRga-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
