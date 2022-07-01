@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T17:43:58.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.53" version="17.4.0" etag="5SVuAWjWazi8wo2jsxO9" type="github"><diagram id="vN8O9G2n0WgHThDv_rJE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-01T14:55:58.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.53" etag="woYN_DmK8cSWb9Yqr2rT" version="20.0.4" type="github">
+  <diagram id="vN8O9G2n0WgHThDv_rJE" name="Page-1">
+    <mxGraphModel dx="828" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FhBJTeFyLP6KLZmq3TdZ-1" value="registrasi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="220" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FhBJTeFyLP6KLZmq3TdZ-2" value="alumni" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FhBJTeFyLP6KLZmq3TdZ-4" value="login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FhBJTeFyLP6KLZmq3TdZ-6" value="mengelola data alumni" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FhBJTeFyLP6KLZmq3TdZ-7" value="lowongan kerja" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="550" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FhBJTeFyLP6KLZmq3TdZ-8" value="history apply kerja" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="670" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FhBJTeFyLP6KLZmq3TdZ-9" value="history apply kerja" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="790" width="310" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
