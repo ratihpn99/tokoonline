@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-02T13:10:38.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.53" etag="SwqfAAdxOgz3SrG65zIx" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-02T13:11:14.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.53" etag="K3rlQasrewdoSPuIVe85" version="20.0.4" type="github">
   <diagram id="IU8xrknCbxoS3MElJnr0" name="Page-1">
     <mxGraphModel dx="720" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="350" y="330" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_g9T-lzfb4vLyNzol36-5" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="80" width="320" height="360" as="geometry" />
+          <mxGeometry x="320" y="80" width="300" height="360" as="geometry" />
         </mxCell>
         <mxCell id="g_g9T-lzfb4vLyNzol36-11" value="Simpan Data Profil" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="g_g9T-lzfb4vLyNzol36-5">
           <mxGeometry x="30" y="10" width="130" height="30" as="geometry" />
