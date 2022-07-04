@@ -1,14 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T08:53:44.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.53" etag="dNtV1hMijp9VitCJ8EHM" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T08:57:42.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.53" etag="6q9MlN9es5kWGSkupmyY" version="20.0.4" type="github">
   <diagram id="IU8xrknCbxoS3MElJnr0" name="Page-1">
-    <mxGraphModel dx="571" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="828" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jsvPGye7oXgWOegGbczx-1" value="form login&amp;nbsp;" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="120" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jsvPGye7oXgWOegGbczx-2" value="data login&amp;nbsp;" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="120" width="110" height="50" as="geometry" />
+        <mxCell id="XHELWwouJJqFz9ElyGaS-5" value="alumni /admin" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="170" width="20" height="430" as="geometry" />
         </mxCell>
         <mxCell id="jsvPGye7oXgWOegGbczx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.2;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="jsvPGye7oXgWOegGbczx-3" target="jsvPGye7oXgWOegGbczx-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -21,9 +18,6 @@
         </mxCell>
         <mxCell id="jsvPGye7oXgWOegGbczx-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="120" y="280" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jsvPGye7oXgWOegGbczx-4" value="alumni /admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="150" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jsvPGye7oXgWOegGbczx-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.133;exitY=0.883;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="jsvPGye7oXgWOegGbczx-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -64,6 +58,24 @@
         </mxCell>
         <mxCell id="jsvPGye7oXgWOegGbczx-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="550" y="440" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XHELWwouJJqFz9ElyGaS-3" value="form login&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="170" width="100" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="XHELWwouJJqFz9ElyGaS-9" value="4. halaman&amp;nbsp; utama" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XHELWwouJJqFz9ElyGaS-3">
+          <mxGeometry x="-75" y="250" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHELWwouJJqFz9ElyGaS-4" value="data login&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="170" width="100" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="XHELWwouJJqFz9ElyGaS-6" value="1. input data login&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHELWwouJJqFz9ElyGaS-7" value="2. validasi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHELWwouJJqFz9ElyGaS-8" value="3. login sukses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="605" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
