@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T07:35:18.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.53" etag="RTsoBzFxwTw4PMkngeRD" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T07:43:24.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.53" etag="zrnxvucOEsiUf8eegc-3" version="20.0.4" type="github">
   <diagram id="IU8xrknCbxoS3MElJnr0" name="Page-1">
     <mxGraphModel dx="828" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="TKZhMXLBmx0eS3FjCxq8-1" value="alumni" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="190" y="120" width="200" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="TKZhMXLBmx0eS3FjCxq8-3" value="input data profil" style="rounded=1;whiteSpace=wrap;html=1;" parent="TKZhMXLBmx0eS3FjCxq8-1" vertex="1">
+        <mxCell id="TKZhMXLBmx0eS3FjCxq8-3" value="input data alumni&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="TKZhMXLBmx0eS3FjCxq8-1" vertex="1">
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SuWbRlv43Mfp_LjAma5y-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TKZhMXLBmx0eS3FjCxq8-1" source="SuWbRlv43Mfp_LjAma5y-2" target="TKZhMXLBmx0eS3FjCxq8-3">
@@ -28,19 +28,19 @@
         <mxCell id="SuWbRlv43Mfp_LjAma5y-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SuWbRlv43Mfp_LjAma5y-1" source="SuWbRlv43Mfp_LjAma5y-4" target="SuWbRlv43Mfp_LjAma5y-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SuWbRlv43Mfp_LjAma5y-4" value="mengelola data profil" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SuWbRlv43Mfp_LjAma5y-1">
+        <mxCell id="SuWbRlv43Mfp_LjAma5y-4" value="mengelola data alumni&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SuWbRlv43Mfp_LjAma5y-1">
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SuWbRlv43Mfp_LjAma5y-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SuWbRlv43Mfp_LjAma5y-1" source="SuWbRlv43Mfp_LjAma5y-5" target="SuWbRlv43Mfp_LjAma5y-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SuWbRlv43Mfp_LjAma5y-5" value="profil lengkap?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="SuWbRlv43Mfp_LjAma5y-1">
+        <mxCell id="SuWbRlv43Mfp_LjAma5y-5" value="data alumni lengkap?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="SuWbRlv43Mfp_LjAma5y-1">
           <mxGeometry x="50" y="240" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SuWbRlv43Mfp_LjAma5y-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SuWbRlv43Mfp_LjAma5y-1" source="SuWbRlv43Mfp_LjAma5y-6" target="SuWbRlv43Mfp_LjAma5y-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SuWbRlv43Mfp_LjAma5y-6" value="data profil diterima" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SuWbRlv43Mfp_LjAma5y-1">
+        <mxCell id="SuWbRlv43Mfp_LjAma5y-6" value="data alumni&amp;nbsp; diterima" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SuWbRlv43Mfp_LjAma5y-1">
           <mxGeometry x="40" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SuWbRlv43Mfp_LjAma5y-14" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="SuWbRlv43Mfp_LjAma5y-1">
